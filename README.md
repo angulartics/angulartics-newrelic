@@ -62,6 +62,10 @@ Documentation is available on the [Angulartics site](http://angulartics.github.i
 npm run build
 ```
 
+## Authors
+
+- [@prestonvanloon](https://github.com/prestonvanloon)
+
 ## Maintainers
 
 - @gampleman
